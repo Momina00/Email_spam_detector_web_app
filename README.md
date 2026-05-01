@@ -21,7 +21,7 @@ A Machine Learning project that detects whether an email/message is Spam or Not 
 - Pandas
 - NumPy
 - NLTK
-- Tkinter / Streamlit (whichever you used)
+- Streamlit 
 
 ## How It Works
 1. User enters an email/message
@@ -36,7 +36,7 @@ A Machine Learning project that detects whether an email/message is Spam or Not 
 - Tokenization
 - Stopword Removajjlkll
 - TF-IDF Vectorization
-- Naive Bayes / Logistic Regression (whichever you used)
+- Naive Bayes
 
 ## Dataset
 Used a spam email dataset containing labeled spam and ham (non-spam) messages for training and testing.
