@@ -1,4 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![NLP](https://img.shields.io/badge/NLP-Text%20Processing-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Email Spam Detector
+
 
 A Machine Learning project that detects whether an email/message is Spam or Not Spam using Natural Language Processing (NLP).
 
@@ -34,6 +40,14 @@ A Machine Learning project that detects whether an email/message is Spam or Not 
 
 ## Dataset
 Used a spam email dataset containing labeled spam and ham (non-spam) messages for training and testing.
+
+## Live Demo
+link: https://emailspamdetectorwebapp-qfsftl742sanceswgdxfzj.streamlit.app/
+
+## Screenshots
+
+
+
 
 ## Installation
 
