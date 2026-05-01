@@ -45,7 +45,8 @@ Used a spam email dataset containing labeled spam and ham (non-spam) messages fo
 link: https://emailspamdetectorwebapp-qfsftl742sanceswgdxfzj.streamlit.app/
 
 ## Screenshots
-![App Screenshot](screenshots/output.png)
+![App Screenshot](screenshots/output1.png)
+![App Screenshot](screenshots/output2.png)
 
 ## Installation
 
