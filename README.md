@@ -34,7 +34,7 @@ A Machine Learning project that detects whether an email/message is Spam or Not 
 ## Machine Learning Concepts Used
 - Natural Language Processing (NLP)
 - Tokenization
-- Stopword Removal
+- Stopword Removajjlkll
 - TF-IDF Vectorization
 - Naive Bayes / Logistic Regression (whichever you used)
 
@@ -45,9 +45,7 @@ Used a spam email dataset containing labeled spam and ham (non-spam) messages fo
 link: https://emailspamdetectorwebapp-qfsftl742sanceswgdxfzj.streamlit.app/
 
 ## Screenshots
-
-
-
+![App Screenshot](screenshots/output.png)
 
 ## Installation
 
