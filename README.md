@@ -21,7 +21,9 @@ A Machine Learning project that detects whether an email/message is Spam or Not 
 - Pandas
 - NumPy
 - NLTK
-- Streamlit 
+- Streamlit
+- Docker
+- GitHub Actions
 
 ## How It Works
 1. User enters an email/message
@@ -38,6 +40,11 @@ A Machine Learning project that detects whether an email/message is Spam or Not 
 - TF-IDF Vectorization
 - Naive Bayes
 
+## DevOps Implementation
+- Created a Dockerfile to containerize the Streamlit application.
+- Configured GitHub Actions to automatically build the Docker image on code changes.
+- Used Git and GitHub for version control and project management.
+
 ## Dataset
 Used a spam email dataset containing labeled spam and ham (non-spam) messages for training and testing.
 
@@ -50,3 +57,15 @@ link: https://emailspamdetectorwebapp-qfsftl742sanceswgdxfzj.streamlit.app/
 ```bash
 pip install -r requirements.txt
 python app.py
+```
+
+## Docker
+
+> Build the image:
+```bash
+docker build -t spam-email-detector .
+```
+> Run the container:
+```bash
+docker run -p 8501:8501 spam-email-detector
+```
